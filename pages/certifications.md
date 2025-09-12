@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Tools"
-permalink: /pages/tools/
+title: "Certifications"
+permalink: /pages/certifications/
 ---
 
-# Tools
 
-Aquí puedes poner la lista y descripción de tus herramientas favoritas.

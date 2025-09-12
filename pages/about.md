@@ -1,9 +1,5 @@
 ---
 layout: page
-title: "Tools"
-permalink: /pages/tools/
+title: "About"
+permalink: /pages/about/
 ---
-
-# Tools
-
-Aquí puedes poner la lista y descripción de tus herramientas favoritas.
