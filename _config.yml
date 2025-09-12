@@ -20,13 +20,13 @@
 
 title: TatakiFlow Cybersecurity blog
 email: bielsaest@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   This is my personal blog for uploading all the Cybersecurity content I find interesting and all the HTB write ups. 
   Hope u enjoy it!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tatakiFlow/tatakiFl0w" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/tatakifl0w" # must match your repo name exactly!
+url: "https://tatakiflow.github.io" # your GitHub Pages URL
 twitter_username: I don't have twitter
-github_username:  TatakiFlow
+github_username: TatakiFlow
 
 # Build settings
 theme: minima
